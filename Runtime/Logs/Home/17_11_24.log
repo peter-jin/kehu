@@ -1,0 +1,1787 @@
+[ 2017-11-24T08:44:13+08:00 ] 127.0.0.1 /kehu/index.php/home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-24T08:44:18+08:00 ] 127.0.0.1 /kehu/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:login
+
+[ 2017-11-24T08:44:24+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T08:47:07+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T08:55:03+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T08:55:42+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T08:57:51+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T08:58:18+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T08:58:46+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T08:59:18+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:03:12+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:03:48+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:04:19+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:05:00+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:09:09+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:09:32+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:09:51+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:10:59+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:11:22+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:13:21+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:13:46+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:15:08+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:19:53+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:21:22+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:21:37+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:22:20+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:22:48+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:24:00+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:24:24+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:24:54+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:31:37+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:33:15+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:33:54+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:35:24+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:40:30+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:41:31+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:42:18+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:42:58+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:44:46+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:47:21+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:48:21+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user?inlineRadioOptions=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:48:23+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:48:24+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:48:26+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:51:43+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:53:24+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T09:54:58+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T09:56:01+08:00 ] 127.0.0.1 /kehu/index.php/home/user/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:02:00+08:00 ] 127.0.0.1 /kehu/index.php/home/user/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:02:20+08:00 ] 127.0.0.1 /kehu/index.php/home/user/upd_user?inlineRadioOptions=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:02:21+08:00 ] 127.0.0.1 /kehu/index.php/home/user/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:02:23+08:00 ] 127.0.0.1 /kehu/index.php/home/user/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:02:55+08:00 ] 127.0.0.1 /kehu/index.php/home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:17:30+08:00 ] 127.0.0.1 /kehu/index.php/home/customer/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:18:04+08:00 ] 127.0.0.1 /kehu/index.php/home/customer/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:19:19+08:00 ] 127.0.0.1 /kehu/index.php/home/customer/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:20:29+08:00 ] 127.0.0.1 /kehu/index.php/home/customer/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:24:36+08:00 ] 127.0.0.1 /kehu/index.php/home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:24:42+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:27:36+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:28:19+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:28:23+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:28:48+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:29:16+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:29:27+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:29:34+08:00 ] 127.0.0.1 /kehu/index.php/home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:29:50+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:31:19+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:33:04+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:34:18+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:35:32+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:35:48+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:37:49+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:38:14+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:39:08+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:39:39+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:41:08+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:41:43+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:42:15+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:43:46+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:43:58+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:44:34+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:45:23+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:45:25+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:46:07+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:46:54+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-11-24T10:48:35+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:48:58+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:49:28+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:50:01+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:50:21+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:51:01+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:51:18+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:51:49+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:52:54+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T10:54:36+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T10:59:26+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:05:10+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T11:07:51+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:09:19+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:09:40+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:09:42+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:15:51+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:16:58+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:18:01+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T11:19:07+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T11:20:58+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:21:38+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T11:23:46+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:24:22+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T11:27:15+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T11:28:05+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:28:18+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T11:30:40+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T11:31:05+08:00 ] 127.0.0.1 /kehu/index.php/home/user/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:34:36+08:00 ] 127.0.0.1 /kehu/index.php/home/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:44:08+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:44:19+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:45:36+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:45:39+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:45:55+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:48:00+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:49:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:49:48+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:49:53+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:51:25+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:51:29+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:51:53+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:52:06+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:52:58+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:53:01+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:53:04+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:53:06+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:53:11+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:53:33+08:00 ] 127.0.0.1 /kehu/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:54:42+08:00 ] 127.0.0.1 /kehu/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:54:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-11-24T13:54:48+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:54:49+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:55:24+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:55:26+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:55:34+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:57:35+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:57:39+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:57:43+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:57:47+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T13:58:34+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T13:58:37+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:00:19+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:00:24+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:00:28+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:00:31+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:00:34+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:00:38+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:01:31+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:01:33+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:01:35+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:01:38+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:01:50+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:01:52+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:01:54+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:03:04+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:03:18+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:03:41+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:03:46+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:03:51+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:04:16+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:04:23+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:04:33+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:04:52+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:05:07+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:08:00+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:08:25+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:11:33+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:12:41+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:13:42+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:14:04+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:14:28+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:14:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:15:08+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:15:19+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:15:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:16:14+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:16:17+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:16:22+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:16:26+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:16:39+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:20:18+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:20:25+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:21:18+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:21:25+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:21:28+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:22:04+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:24:30+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:24:37+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:24:40+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:26:40+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:26:51+08:00 ] 127.0.0.1 /kehu/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:26:53+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:27:04+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:27:06+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:27:12+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:27:34+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:27:36+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:28:46+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:28:49+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:29:01+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:30:34+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:30:37+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:30:39+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:30:42+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:30:44+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:30:47+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-11-24T14:30:51+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:30:55+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:30:57+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:31:05+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:31:07+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:31:10+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T14:44:42+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T14:45:43+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:21:32+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:22:41+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:22:48+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:22:50+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:22:57+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:23:02+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:23:04+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:23:07+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:23:10+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:23:12+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:23:36+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:24:17+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:24:20+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:24:26+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:24:34+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:24:35+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:24:37+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:24:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:24:49+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:25:02+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:25:04+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:25:09+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:25:12+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:25:42+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:25:50+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:25:53+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:25:56+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:26:04+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:26:11+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:26:17+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:27:52+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:27:54+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:27:57+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:27:58+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:28:01+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:28:37+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:28:42+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:28:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:28:50+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:28:55+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:28:57+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:29:13+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:29:16+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:29:18+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:29:23+08:00 ] 127.0.0.1 /kehu/index.php/Home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:29:39+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:31:11+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:31:19+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:31:48+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:32:35+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:32:46+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:33:15+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:33:26+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:33:28+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:33:36+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:34:09+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:35:12+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-11-24T15:35:16+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:36:17+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-11-24T15:36:22+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:41:32+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:41:35+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:41:37+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:43:22+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:43:42+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:44:11+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:44:27+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:44:38+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:44:45+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:45:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:45:53+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:45:55+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:46:11+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:46:13+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:46:53+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:46:58+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:47:05+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:47:09+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:47:25+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:48:38+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/upd_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:48:46+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/details
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:49:13+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:49:14+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:49:49+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:49:57+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:49:59+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:50:07+08:00 ] 127.0.0.1 /kehu/index.php/Home/Customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T15:50:21+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T15:50:59+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T17:39:19+08:00 ] 127.0.0.1 /kehu/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-11-24T17:42:22+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T17:42:25+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T17:46:09+08:00 ] 127.0.0.1 /kehu/index.php/Home/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T17:46:12+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T17:47:09+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T17:47:14+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/add_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T18:02:28+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-24T18:29:10+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T18:29:12+08:00 ] 127.0.0.1 /kehu/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-24T18:36:17+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Syntax Error in template "C:/wamp/www/kehu/Home/View\Index\index.html"  on line 4 "{table} 你好 {/table}" unknown tag "table"
+
+[ 2017-11-24T18:36:57+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Syntax Error in template "C:/wamp/www/kehu/Home/View\Index\index.html"  on line 4 "{atable} 你好 {/atable}" unknown tag "atable"
+
+[ 2017-11-24T18:40:41+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Syntax Error in template "C:/wamp/www/kehu/Home/View\Index\index.html"  on line 9 ""  - Unexpected "
+
+
+"
+
+[ 2017-11-24T18:40:41+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Syntax Error in template "C:/wamp/www/kehu/Home/View\Index\index.html"  on line 9 ""  - Unexpected "
+
+
+"
+
+[ 2017-11-24T22:07:20+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Syntax Error in template "C:/wamp/www/kehu/Home/View\Index\index.html"  on line 2 "{block name=&quot;include&quot;}{include file=&quot;header&quot; /}{/block}"  - Unexpected "}"
+
+[ 2017-11-24T22:09:16+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu' in 'Index/index.html'
+
+[ 2017-11-24T22:09:17+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu' in 'Index/index.html'
+
+[ 2017-11-24T22:09:55+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu.html' in 'Index/index.html'
+
+[ 2017-11-24T22:09:56+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu.html' in 'Index/index.html'
+
+[ 2017-11-24T22:19:32+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu' in 'Index/index.html'
+
+[ 2017-11-24T22:19:33+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu' in 'Index/index.html'
+
+[ 2017-11-24T22:19:35+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu' in 'Index/index.html'
+
+[ 2017-11-24T22:19:35+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu' in 'Index/index.html'
+
+[ 2017-11-24T22:19:44+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu.tpl' in 'Index/index.html'
+
+[ 2017-11-24T22:19:45+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'menu.tpl' in 'Index/index.html'
+
+[ 2017-11-24T22:20:15+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu.tpl'
+
+[ 2017-11-24T22:20:16+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu.tpl'
+
+[ 2017-11-24T22:20:18+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu.tpl'
+
+[ 2017-11-24T22:21:31+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu.tpl'
+
+[ 2017-11-24T22:22:51+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: 模板不存在:C:/wamp/www/kehu/Home/View/Index/index.html
+
+[ 2017-11-24T22:23:37+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: 模板不存在:C:/wamp/www/kehu/Home/View/Index/index.tpl.html
+
+[ 2017-11-24T22:23:38+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: 模板不存在:C:/wamp/www/kehu/Home/View/Index/index.tpl.html
+
+[ 2017-11-24T22:26:06+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: 模板不存在:C:/wamp/www/kehu/Home/View/Index/index.tpl.tpl
+
+[ 2017-11-24T22:26:07+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: 模板不存在:C:/wamp/www/kehu/Home/View/Index/index.tpl.tpl
+
+[ 2017-11-24T22:26:40+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:27:00+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:27:01+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:29:06+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:32+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:33+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:33+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:33+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:33+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:34+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:34+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:34+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:56+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:32:57+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:33:32+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:33:33+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:33:34+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:33:34+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:33:35+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'menu'
+
+[ 2017-11-24T22:34:00+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:09+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:10+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:10+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:10+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:10+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:10+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:11+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:11+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T22:40:31+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to load template file 'header' in 'Index/index.html'
+
+[ 2017-11-24T22:41:01+08:00 ] 127.0.0.1 /kehu/index.php/home/
+ERR: Unable to load template file 'header' in 'Index/index.html'
+
+[ 2017-11-24T22:41:08+08:00 ] 127.0.0.1 /kehu/index.php/home/index
+ERR: Unable to load template file 'header' in 'Index/index.html'
+
+[ 2017-11-24T22:41:14+08:00 ] 127.0.0.1 /kehu/index.php/home/index/index
+ERR: Unable to load template file 'header' in 'Index/index.html'
+
+[ 2017-11-24T22:44:59+08:00 ] 127.0.0.1 /kehu/index.php/home/index/index
+ERR: Syntax Error in template "C:/wamp/www/kehu/Home/View\Index\index.html"  on line 1 "{extents file='header'}" unknown tag "extents"
+
+[ 2017-11-24T22:45:35+08:00 ] 127.0.0.1 /kehu/index.php/home/index/index
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T23:03:09+08:00 ] 127.0.0.1 /kehu/index.php/home/index/index
+ERR: Unable to read template file 'header'
+
+[ 2017-11-24T23:03:14+08:00 ] 127.0.0.1 /kehu/index.php
+ERR: Unable to read template file 'header'
+
