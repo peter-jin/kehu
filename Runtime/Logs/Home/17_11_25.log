@@ -67,3 +67,138 @@ ERR: 模板不存在:C:/wamp/www/kehu/Home/View/User/Muban.userdetails.html
 [ 2017-11-25T12:54:08+08:00 ] 127.0.0.1 /kehu/index.php/Home/User/userdetails
 ERR: 模板不存在:C:/wamp/www/kehu/Home/View/User/userdetails.html
 
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dbootstrap-cerulean.min.css
+ERR: 非法操作:{CSS_URL}bootstrap-cerulean.min.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dcharisma-app.css
+ERR: 非法操作:{CSS_URL}charisma-app.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.noty.css
+ERR: 非法操作:{CSS_URL}jquery.noty.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dnoty_theme_default.css
+ERR: 非法操作:{CSS_URL}noty_theme_default.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.min.css
+ERR: 非法操作:{CSS_URL}elfinder.min.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.theme.css
+ERR: 非法操作:{CSS_URL}elfinder.theme.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.iphone.toggle.css
+ERR: 非法操作:{CSS_URL}jquery.iphone.toggle.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Duploadify.css
+ERR: 非法操作:{CSS_URL}uploadify.css
+
+[ 2017-11-25T20:41:01+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Danimate.min.css
+ERR: 非法操作:{CSS_URL}animate.min.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dbootstrap-cerulean.min.css
+ERR: 非法操作:{CSS_URL}bootstrap-cerulean.min.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dnoty_theme_default.css
+ERR: 非法操作:{CSS_URL}noty_theme_default.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dcharisma-app.css
+ERR: 非法操作:{CSS_URL}charisma-app.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.noty.css
+ERR: 非法操作:{CSS_URL}jquery.noty.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.min.css
+ERR: 非法操作:{CSS_URL}elfinder.min.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.theme.css
+ERR: 非法操作:{CSS_URL}elfinder.theme.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.iphone.toggle.css
+ERR: 非法操作:{CSS_URL}jquery.iphone.toggle.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Danimate.min.css
+ERR: 非法操作:{CSS_URL}animate.min.css
+
+[ 2017-11-25T20:41:10+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Duploadify.css
+ERR: 非法操作:{CSS_URL}uploadify.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dbootstrap-cerulean.min.css
+ERR: 非法操作:{CSS_URL}bootstrap-cerulean.min.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dcharisma-app.css
+ERR: 非法操作:{CSS_URL}charisma-app.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.noty.css
+ERR: 非法操作:{CSS_URL}jquery.noty.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dnoty_theme_default.css
+ERR: 非法操作:{CSS_URL}noty_theme_default.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.min.css
+ERR: 非法操作:{CSS_URL}elfinder.min.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.theme.css
+ERR: 非法操作:{CSS_URL}elfinder.theme.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.iphone.toggle.css
+ERR: 非法操作:{CSS_URL}jquery.iphone.toggle.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Duploadify.css
+ERR: 非法操作:{CSS_URL}uploadify.css
+
+[ 2017-11-25T20:41:11+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Danimate.min.css
+ERR: 非法操作:{CSS_URL}animate.min.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.noty.css
+ERR: 非法操作:{CSS_URL}jquery.noty.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.min.css
+ERR: 非法操作:{CSS_URL}elfinder.min.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7B%20CSS_URL%20%7Dcharisma-app.css
+ERR: 非法操作:{ CSS_URL }charisma-app.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.theme.css
+ERR: 非法操作:{CSS_URL}elfinder.theme.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dnoty_theme_default.css
+ERR: 非法操作:{CSS_URL}noty_theme_default.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dbootstrap-cerulean.min.css
+ERR: 非法操作:{CSS_URL}bootstrap-cerulean.min.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Duploadify.css
+ERR: 非法操作:{CSS_URL}uploadify.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Danimate.min.css
+ERR: 非法操作:{CSS_URL}animate.min.css
+
+[ 2017-11-25T20:41:30+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.iphone.toggle.css
+ERR: 非法操作:{CSS_URL}jquery.iphone.toggle.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dbootstrap-cerulean.min.css
+ERR: 非法操作:{CSS_URL}bootstrap-cerulean.min.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7B%20CSS_URL%20%7Dcharisma-app.css
+ERR: 非法操作:{ CSS_URL }charisma-app.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.noty.css
+ERR: 非法操作:{CSS_URL}jquery.noty.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Dnoty_theme_default.css
+ERR: 非法操作:{CSS_URL}noty_theme_default.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.theme.css
+ERR: 非法操作:{CSS_URL}elfinder.theme.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Djquery.iphone.toggle.css
+ERR: 非法操作:{CSS_URL}jquery.iphone.toggle.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Delfinder.min.css
+ERR: 非法操作:{CSS_URL}elfinder.min.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Duploadify.css
+ERR: 非法操作:{CSS_URL}uploadify.css
+
+[ 2017-11-25T20:41:32+08:00 ] ::1 /kehu/index.php/Home/User/%7BCSS_URL%7Danimate.min.css
+ERR: 非法操作:{CSS_URL}animate.min.css
+

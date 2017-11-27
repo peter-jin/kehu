@@ -44,6 +44,7 @@
 
     <!-- jQuery -->
     <script src="<?php echo BOWER_COMPONENTS_URL; ?>jquery/jquery.min.js"></script>
+    <script src="<?php echo BOWER_COMPONENTS_URL; ?>jquery/jquery-1.8.3.min.js"></script>
 
     <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -133,6 +134,7 @@
     <!-- topbar ends -->
 <div class="ch-container">
     <div class="row">
+    
 
 	
     
@@ -181,7 +183,7 @@
 
 	
     
-     <noscript>
+        <noscript>
             <div class="alert alert-block col-md-12">
                 <h4 class="alert-heading">Warning!</h4>
 
@@ -197,84 +199,60 @@
         <li>
             <a href="#">首页</a>
         </li>
-            
         <li>
-            <a href="#">添加用户</a>
+            <a href="#">仪表盘</a>
         </li>
     </ul>
 </div>
+<div class=" row">
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <a data-toggle="tooltip" title="6 new members." class="well top-block" href="#">
+            <i class="glyphicon glyphicon-user blue"></i>
+
+            <div>客户总数</div>
+            <div>507</div>
+            <span class="notification">6</span>
+        </a>
+    </div>
+
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <a data-toggle="tooltip" title="4 new pro members." class="well top-block" href="#">
+            <i class="glyphicon glyphicon-star green"></i>
+
+            <div>完成工作</div>
+            <div>228</div>
+            <span class="notification green">4</span>
+        </a>
+    </div>
+
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <a data-toggle="tooltip" title="34 new sales." class="well top-block" href="#">
+            <i class="glyphicon glyphicon-list-alt yellow"></i>
+
+            <div>待办事项</div>
+            <div>$13320</div>
+            <span class="notification yellow">34</span>
+        </a>
+    </div>
+
+    <div class="col-md-3 col-sm-3 col-xs-6">
+        <a data-toggle="tooltip" title="12 new messages." class="well top-block" href="#">
+            <i class="glyphicon glyphicon-calendar red"></i>
+
+            <div>日历</div>
+            <div>25</div>
+            <span class="notification red">12</span>
+        </a>
+    </div>
+</div>
+
 
 
 <div class="row">
-    <!-- 用户基础信息 -->
-    <div class="box col-md-6">
-        <div class="box-inner">
-            <div class="box-header well" data-original-title="">
-                <h2><i class="glyphicon glyphicon-edit"></i> 基础信息</h2>
-
-                <div class="box-icon">
-                    <a href="#" class="btn btn-round btn-default"><i class="glyphicon glyphicon-share-alt"></i></a>
-                </div>
-            </div>
-            <div class="box-content">
-               
-                <form role="form" id="formAddHandlingFee">
-                    <div class="form-group">
-                        <label for="username">用户名</label>
-                        <input type="text" class="form-control" id="username" placeholder="username">
-                    </div>
-                    <div class="form-group">
-                        <label for="Password">密码</label>
-                        <input type="password" class="form-control" id="Password" placeholder="Password">
-                    </div>
-                    <div class="form-group">
-                        <label for="sex">性别</label><br />
-                        <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="1"> 男
-                        </label>
-                        <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="0"> 女
-                        </label>
-                    </div>
-                    <div class="form-group">
-                        <label for="phone">手机</label>
-                        <input type="tel" class="form-control" id="phone" placeholder="phone">
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleInputEmail1">邮箱</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="email">
-                    </div>
-                    <div class="form-group">
-                        <label class="control-label" for="select">用户权限</label>
-
-                        <div class="controls">
-                            <select id="select" data-rel="chosen">
-                                <option>用户</option>
-                                <option>测试用户</option>
-                                <option>管理员</option>
-                            </select>
-                        </div>
-                    </div>
-
-                    <div class="form-group">
-                        <label for="wenben">概述</label>
-                        <textarea class="form-control" id="wenben" rows="3" placeholder="Summary"></textarea>
-                    </div>
-
-                    <button type="submit" class="btn btn-default">提交</button>
-                </form>
-
-            </div>
-        </div>
-    </div>
-    <!--/span-->
-
-    <!-- 用户详细信息 -->
-    <!-- 
-    <div class="box col-md-6">
-        <div class="box-inner">
-            <div class="box-header well" data-original-title="">
-                <h2><i class="glyphicon glyphicon-edit"></i> 详细信息</h2>
+    <div class="box col-md-4">
+        <div class="box-inner homepage-box">
+            <div class="box-header well">
+                <h2><i class="glyphicon glyphicon-th"></i> 重要通知</h2>
 
                 <div class="box-icon">
                     <a href="#" class="btn btn-setting btn-round btn-default"><i
@@ -286,62 +264,188 @@
                 </div>
             </div>
             <div class="box-content">
-                <form role="form">
-                    <div class="form-group">
-                        <label for="username">毕业院校</label>
-                        <input type="text" class="form-control" id="username" placeholder="username">
-                    </div>
-                    <div class="form-group">
-                        <label for="Password">学历</label>
-                        <input type="password" class="form-control" id="Password" placeholder="Password">
-                    </div>
-                    <div class="form-group">
-                        <label for="sex">性别</label><br />
-                        <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="1"> 男
-                        </label>
-                        <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="0"> 女
-                        </label>
-                    </div>
-                    <div class="form-group">
-                        <label for="phone">手机</label>
-                        <input type="tel" class="form-control" id="phone" placeholder="phone">
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleInputEmail1">邮箱</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="email">
-                    </div>
-                    <div class="form-group">
-                        <label class="control-label" for="select">用户权限</label>
+                <ul class="nav nav-tabs" id="myTab">
+                    <li class="active"><a href="#info">最新动态</a></li>
+                    <li><a href="#custom">公司新闻</a></li>
+                    <li><a href="#messages">会议通知</a></li>
+                </ul>
 
-                        <div class="controls">
-                            <select id="select" data-rel="chosen">
-                                <option>用户</option>
-                                <option>测试用户</option>
-                                <option>管理员</option>
-                            </select>
-                        </div>
+                <div id="myTabContent" class="tab-content">
+                    <div class="tab-pane active" id="info">
+                        <h3>Charisma
+                            <small>a full featured template</small>
+                        </h3>
+                        <p>It's a full featured, responsive template for your admin panel. It's optimized for tablets
+                            and mobile phones.</p>
+
+                        <p>Check how it looks on different devices:</p>
+                        <a href="http://www.responsinator.com/?url=usman.it%2Fthemes%2Fcharisma"
+                           target="_blank"><strong>Preview on iPhone size.</strong></a>
+                        <br>
+                        <a href="http://www.responsinator.com/?url=usman.it%2Fthemes%2Fcharisma"
+                           target="_blank"><strong>Preview on iPad size.</strong></a>
                     </div>
+                    <div class="tab-pane" id="custom">
+                        <h3>Custom
+                            <small>small text</small>
+                        </h3>
+                        <p>Sample paragraph.</p>
 
-                    <div class="form-group">
-                        <label for="wenben">概述</label>
-                        <textarea class="form-control" id="wenben" rows="3" placeholder="Summary"></textarea>
+                        <p>Your custom text.</p>
                     </div>
+                    <div class="tab-pane" id="messages">
+                        <h3>Messages
+                            <small>small text</small>
+                        </h3>
+                        <p>Sample paragraph.</p>
 
-                    <button type="submit" class="btn btn-default">提交</button>
-                </form>
-
+                        <p>Your custom text.</p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!--/span-->
 
+    <div class="box col-md-4">
+        <div class="box-inner">
+            <div class="box-header well" data-original-title="">
+                <h2><i class="glyphicon glyphicon-user"></i> 核心客户</h2>
+
+                <div class="box-icon">
+                    <a href="#" class="btn btn-minimize btn-round btn-default"><i
+                            class="glyphicon glyphicon-chevron-up"></i></a>
+                    <a href="#" class="btn btn-close btn-round btn-default"><i
+                            class="glyphicon glyphicon-remove"></i></a>
+                </div>
+            </div>
+            <div class="box-content">
+                <div class="box-content">
+                    <ul class="dashboard-list">
+                        <li>
+                            <a href="#">
+                                <img class="dashboard-avatar" alt="Usman"
+                                     src="http://www.gravatar.com/avatar/f0ea51fa1e4fae92608d8affee12f67b.png?s=50"></a>
+                            <strong>Name:</strong> <a href="#">Usman
+                            </a><br>
+                            <strong>Since:</strong> 17/05/2014<br>
+                            <strong>Status:</strong> <span class="label-success label label-default">Approved</span>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img class="dashboard-avatar" alt="Sheikh Heera"
+                                     src="http://www.gravatar.com/avatar/3232415a0380253cfffe19163d04acab.png?s=50"></a>
+                            <strong>Name:</strong> <a href="#">Sheikh Heera
+                            </a><br>
+                            <strong>Since:</strong> 17/05/2014<br>
+                            <strong>Status:</strong> <span class="label-warning label label-default">Pending</span>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img class="dashboard-avatar" alt="Abdullah"
+                                     src="http://www.gravatar.com/avatar/46056f772bde7c536e2086004e300a04.png?s=50"></a>
+                            <strong>Name:</strong> <a href="#">Abdullah
+                            </a><br>
+                            <strong>Since:</strong> 25/05/2014<br>
+                            <strong>Status:</strong> <span class="label-default label label-danger">Banned</span>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img class="dashboard-avatar" alt="Sana Amrin"
+                                     src="http://www.gravatar.com/avatar/hash"></a>
+                            <strong>Name:</strong> <a href="#">Sana Amrin</a><br>
+                            <strong>Since:</strong> 17/05/2014<br>
+                            <strong>Status:</strong> <span class="label label-info">Updates</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/span-->
+
+    <div class="box col-md-4">
+        <div class="box-inner">
+            <div class="box-header well" data-original-title="">
+                <h2><i class="glyphicon glyphicon-list"></i> Weekly Stat</h2>
+
+                <div class="box-icon">
+                    <a href="#" class="btn btn-setting btn-round btn-default"><i
+                            class="glyphicon glyphicon-cog"></i></a>
+                    <a href="#" class="btn btn-minimize btn-round btn-default"><i
+                            class="glyphicon glyphicon-chevron-up"></i></a>
+                    <a href="#" class="btn btn-close btn-round btn-default"><i
+                            class="glyphicon glyphicon-remove"></i></a>
+                </div>
+            </div>
+            <div class="box-content">
+                <ul class="dashboard-list">
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-arrow-up"></i>
+                            <span class="green">92</span>
+                            New Comments
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-arrow-down"></i>
+                            <span class="red">15</span>
+                            New Registrations
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-minus"></i>
+                            <span class="blue">36</span>
+                            New Articles
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-comment"></i>
+                            <span class="yellow">45</span>
+                            User reviews
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-arrow-up"></i>
+                            <span class="green">112</span>
+                            New Comments
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-arrow-down"></i>
+                            <span class="red">31</span>
+                            New Registrations
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-minus"></i>
+                            <span class="blue">93</span>
+                            New Articles
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-comment"></i>
+                            <span class="yellow">254</span>
+                            User reviews
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--/span-->
 </div><!--/row-->
+
 
     <!-- content ends -->
 </div><!--/#content.col-md-0-->
-    
 </div><!--/fluid-row-->
 
 	
@@ -349,11 +453,10 @@
     <!-- Ad, you can remove it -->
     <div class="row">
         <div class="col-md-9 col-lg-9 col-xs-9 hidden-xs">
-            1111111111111111111111111111
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <!-- Charisma Demo 2 -->
             <ins class="adsbygoogle"
-                 
+                 style="display:inline-block;width:728px;height:90px"
                  data-ad-client="ca-pub-5108790028230107"
                  data-ad-slot="3193373905"></ins>
             <script>

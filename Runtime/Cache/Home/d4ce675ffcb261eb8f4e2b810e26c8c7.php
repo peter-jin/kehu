@@ -44,6 +44,7 @@
 
     <!-- jQuery -->
     <script src="<?php echo BOWER_COMPONENTS_URL; ?>jquery/jquery.min.js"></script>
+    <script src="<?php echo BOWER_COMPONENTS_URL; ?>jquery/jquery-1.8.3.min.js"></script>
 
     <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -221,6 +222,7 @@
     <thead>
     <tr>
         <th>注册时间</th>
+        <th>ID</th>
         <th>UID</th>
         <th>性别</th>
         <th>电话号码</th>
@@ -235,6 +237,7 @@
 
     <?php if(is_array($info)): foreach($info as $key=>$v): ?><tr>
         <td><?php echo ($v["utime"]); ?></td>
+        <td><?php echo ($v["id"]); ?></td>
         <td><?php echo ($v["uname"]); ?></td>
         <td class="center"><?php echo ($v["sex"]); ?></td>
         <td class="center"><?php echo ($v["tetephone"]); ?></td>
