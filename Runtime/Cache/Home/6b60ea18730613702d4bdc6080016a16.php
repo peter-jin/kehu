@@ -44,6 +44,7 @@
 
     <!-- jQuery -->
     <script src="<?php echo BOWER_COMPONENTS_URL; ?>jquery/jquery.min.js"></script>
+    <script src="<?php echo BOWER_COMPONENTS_URL; ?>jquery/jquery-1.8.3.min.js"></script>
 
     <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -307,22 +308,7 @@
 
 	
     
-    <!-- Ad, you can remove it -->
-    <div class="row">
-        <div class="col-md-9 col-lg-9 col-xs-9 hidden-xs">
-            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-            <!-- Charisma Demo 2 -->
-            <ins class="adsbygoogle"
-                 style="display:inline-block;width:728px;height:90px"
-                 data-ad-client="ca-pub-5108790028230107"
-                 data-ad-slot="3193373905"></ins>
-            <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-        </div>
-
-    </div>
-    <!-- Ad ends -->
+    
 
     <hr>
 

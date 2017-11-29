@@ -1,12 +1,5 @@
 {/* 添加用户信息center模板*/ }
-     <noscript>
-            <div class="alert alert-block col-md-12">
-                <h4 class="alert-heading">Warning!</h4>
-
-                <p>You need to have <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>
-                    enabled to use this site.</p>
-            </div>
-        </noscript>
+     
 
 <div id="content" class="col-lg-10 col-sm-10">
             <!-- content starts -->
@@ -35,38 +28,113 @@
                 </div>
             </div>
             <div class="box-content">
-               
-                <form role="form" id="formAddHandlingFee">
+               <script type="text/javascript">
+                    window.onload= function(){
+                        var fm = document.getElementById('myform');
+                        fm.onsubmit = function(evt){
+                            //① 收集全部的表单域信息
+                            //客户信息前面加C
+                            var uname = document.getElementById('uname').value; //客户姓名
+                            var pword = document.getElementById('upass').value; //客户年龄
+                            var sex = document.getElementById('usex').value; //客户学校
+                            var telephone = document.getElementById('uphone').value; //客户学历
+                            var email = document.getElementById('uemail').value; //客户单位
+                            var uright = document.getElementById('uselect').value; //客户住址
+                            var summary = document.getElementById('wenben').value; //客户手机
+                            var add_people = document.getElementById('add_people').value; //客户手机
+
+
+                            //制作时间
+                            var timestamp = Date.parse(new Date());
+                            var date = new Date(timestamp);
+                            Y = date.getFullYear() + '-';
+                            M = (date.getMonth()+1 < 10 ? '0'+(date.getMonth()+1) : date.getMonth()+1) + '-';
+                            D = date.getDate() + ' ';
+                            h = date.getHours() + ':';
+                            m = date.getMinutes() + ':';
+                            s = date.getSeconds(); 
+                            var utime = Y+M+D+h+m+s; //呀麻碟
+                           
+                      
+                            
+                
+
+                            //var info = "name="+nm+"&pwd="+pw;
+                            //② 利用ajax无刷新方式提交表单信息到服务器
+                            var xhr = new XMLHttpRequest();
+                            xhr.onreadystatechange = function(){
+                                if(xhr.readyState==4){
+                                    alert(xhr.responseText);
+                                }
+                            } 
+                            //xhr.open('post','__CONTROLLER__/login');
+                            //xhr.setRequestHeader("content-type","application/x-www-form-urlencoded");
+                            //xhr.send(info);
+                            var inp = $(this);
+
+                            $.ajax({
+                                url:'__CONTROLLER__/useraction',
+                                data:{uname:uname,pword:pword,telephone:telephone,email:email,uright:uright,summary:summary,add_people:add_people,utime:utime},
+                                type:'POST',
+                                success:function(data){
+                                    if(data == 1){
+                                        //可用
+                                        console.log(data);
+                                        inp.prev().html('添加成功');
+                                        CUSER = true;
+                                    }else{  
+                                        console.log(data);
+                                        inp.prev().html('添加失败');
+                                        CUSER = false;
+                                    }
+                                },
+                                error:function(){
+                                    alert('错误');
+                                },
+                                timeout:10000,
+                                //同步
+                                async:false
+                                
+                            })
+                            
+                            evt.preventDefault();//通过事件对象阻止浏览器默认动作
+                            //return false;//阻止浏览器form表单的提交动作
+                        }
+                    }
+                </script>
+                
+                <div class="alert alert-info">详细填写用户信息</div>
+                <form role="form" id="myform">
                     <div class="form-group">
                         <label for="username">用户名</label>
-                        <input type="text" class="form-control" id="username" placeholder="username">
+                        <input type="text" class="form-control" id="uname" placeholder="username">
                     </div>
                     <div class="form-group">
                         <label for="Password">密码</label>
-                        <input type="password" class="form-control" id="Password" placeholder="Password">
+                        <input type="password" class="form-control" id="upass" placeholder="Password">
                     </div>
                     <div class="form-group">
                         <label for="sex">性别</label><br />
                         <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="1"> 男
+                            <input type="radio" name="inlineRadioOptions" id="usex" value="1"> 男
                         </label>
                         <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="0"> 女
+                            <input type="radio" name="inlineRadioOptions" id="usex" value="0"> 女
                         </label>
                     </div>
                     <div class="form-group">
                         <label for="phone">手机</label>
-                        <input type="tel" class="form-control" id="phone" placeholder="phone">
+                        <input type="tel" class="form-control" id="uphone" placeholder="phone">
                     </div>
                     <div class="form-group">
                         <label for="exampleInputEmail1">邮箱</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="email">
+                        <input type="email" class="form-control" id="uemail" placeholder="email">
                     </div>
                     <div class="form-group">
                         <label class="control-label" for="select">用户权限</label>
 
                         <div class="controls">
-                            <select id="select" data-rel="chosen">
+                            <select id="uselect" data-rel="chosen">
                                 <option>用户</option>
                                 <option>测试用户</option>
                                 <option>管理员</option>
@@ -78,8 +146,12 @@
                         <label for="wenben">概述</label>
                         <textarea class="form-control" id="wenben" rows="3" placeholder="Summary"></textarea>
                     </div>
-
+                    <div class="form-group">
+                        <label for="add_people">用户名</label>
+                        <input type="text" class="form-control" id="add_people" placeholder="add_people">
+                    </div>
                     <button type="submit" class="btn btn-default">提交</button>
+                    <button type="reset" class="btn btn-default">清除</button>
                 </form>
 
             </div>

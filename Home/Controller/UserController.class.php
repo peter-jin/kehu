@@ -36,6 +36,55 @@ class UserController extends Controller {
     	$this->display();
     }
 
+    //添加用户执行页
+    public function useraction(){
+
+        
+        
+        //提取变量数据
+        $uname = $_POST['uname'];
+        $pword = $_POST['pword'];
+        $sex = $_POST['sex'];
+        $telephone = $_POST['telephone'];
+        $email = $_POST['email'];
+        $uright = $_POST['uright'];
+        $summary = $_POST['summary'];
+        $add_people = $_POST['add_people'];
+        $utime = $_POST['utime'];
+
+        // echo $sj;
+        // exit;
+        $user = D('User');
+        
+
+        $tiaojian = 'telephone="'.$telephone.'"';
+
+        $phone = $user->where($tiaojian)->select();
+
+
+
+        // echo $tiaojian;
+
+        // echo $phone[0]['telephone'] ;
+
+        // $aa = json_encode($_POST);
+        // dump($aa);
+        //exit;
+
+        if ($telephone === $phone[0]['telephone'] or $telephone === NULL) {  
+            echo '2';
+        }else{
+            $z = $user->add($_POST);
+            echo '1';
+
+        }
+        
+        
+        
+       
+
+    }
+
     //删除用户
     public function del_user(){
     	$this->display();

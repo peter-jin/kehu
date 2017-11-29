@@ -1,13 +1,14 @@
 {/* 添加客户信息center模板*/ }
 
-    <noscript>
+    <!-- <noscript>
             <div class="alert alert-block col-md-12">
                 <h4 class="alert-heading">Warning!</h4>
 
                 <p>You need to have <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>
                     enabled to use this site.</p>
             </div>
-        </noscript>
+
+    </noscript> -->
 
 <div id="content" class="col-lg-10 col-sm-10">
             <!-- content starts -->
@@ -36,50 +37,118 @@
                 </div>
             </div>
             <div class="box-content">
-                <form role="form">
-                    <div class="form-group">
-                        <label for="username">用户名</label>
-                        <input type="text" class="form-control" id="username" placeholder="username">
-                    </div>
-                    <div class="form-group">
-                        <label for="Password">密码</label>
-                        <input type="password" class="form-control" id="Password" placeholder="Password">
-                    </div>
-                    <div class="form-group">
-                        <label for="sex">性别</label><br />
-                        <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="1"> 男
-                        </label>
-                        <label class="radio-inline">
-                            <input type="radio" name="inlineRadioOptions" id="sex" value="0"> 女
-                        </label>
-                    </div>
-                    <div class="form-group">
-                        <label for="phone">手机</label>
-                        <input type="tel" class="form-control" id="phone" placeholder="phone">
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleInputEmail1">邮箱</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="email">
-                    </div>
-                    <div class="form-group">
-                        <label class="control-label" for="select">用户权限</label>
+                <script type="text/javascript">
+                    window.onload= function(){
+                        var fm = document.getElementById('myform');
+                        fm.onsubmit = function(evt){
+                            //① 收集全部的表单域信息
+                            //客户信息前面加C
+                            var kname = document.getElementById('cname').value; //客户姓名
+                            var kage = document.getElementById('cage').value; //客户年龄
+                            var school = document.getElementById('sch').value; //客户学校
+                            var education = document.getElementById('edu').value; //客户学历
+                            var comqany = document.getElementById('com').value; //客户单位
+                            var address = document.getElementById('addr').value; //客户住址
+                            var telephone = document.getElementById('tphone').value; //客户手机
+                            var hobby = document.getElementById('hob').value; //客户爱好
+                            var cycle = document.getElementById('cyc').value; //拜访周期
+                            var assessment = document.getElementById('assess').value; //客户评估
+                            
+                            //var info = "name="+nm+"&pwd="+pw;
+                            //② 利用ajax无刷新方式提交表单信息到服务器
+                            var xhr = new XMLHttpRequest();
+                            xhr.onreadystatechange = function(){
+                                if(xhr.readyState==4){
+                                    alert(xhr.responseText);
+                                }
+                            }
 
-                        <div class="controls">
-                            <select id="select" data-rel="chosen">
-                                <option>用户</option>
-                                <option>测试用户</option>
-                                <option>管理员</option>
-                            </select>
-                        </div>
-                    </div>
+                            
+                            //xhr.open('post','__CONTROLLER__/login');
+                            //xhr.setRequestHeader("content-type","application/x-www-form-urlencoded");
+                            //xhr.send(info);
+                            var inp = $(this);
 
+                            $.ajax({
+                                url:'__CONTROLLER__/useraction',
+                                data:{kname:kname,kage:kage,school:school,education:education,comqany:comqany,address:address,telephone:telephone,hobby:hobby,cycle:cycle,assessment:assessment},
+                                type:'POST',
+                                success:function(data){
+                                    if(data == 1){
+                                        //可用
+                                        console.log(data);
+                                        inp.prev().html('添加成功');
+                                        CUSER = true;
+                                    }else{  
+                                        console.log(data);
+                                        inp.prev().html('添加失败');
+                                        CUSER = false;
+                                    }
+                                },
+                                error:function(){
+                                    alert('错误');
+                                },
+                                timeout:10000,
+                                //同步
+                                async:false
+                                
+                            })
+                            
+                            evt.preventDefault();//通过事件对象阻止浏览器默认动作
+                            //return false;//阻止浏览器form表单的提交动作
+                        }
+                    }
+                </script>
+                
+                <div class="alert alert-info">详细填写客户信息</div>
+                <form  id="myform">
                     <div class="form-group">
-                        <label for="wenben">概述</label>
-                        <textarea class="form-control" id="wenben" rows="3" placeholder="Summary"></textarea>
+                        <label for="username">姓名</label>
+                        <input type="text" class="form-control" id="cname" placeholder="username">
+                    </div> 
+                    <div class="form-group">
+                        <label for="age">年龄</label>
+                        <input type="text" class="form-control" id="cage" placeholder="age">
+                    </div> 
+                    <div class="form-group">
+                        <label for="school">毕业院校</label>
+                        <input type="text" class="form-control" id="sch" placeholder="school">
+                    </div> 
+                    <div class="form-group">
+                        <label for="education">学历</label>
+                        <input type="text" class="form-control" id="edu" placeholder="education">
+                    </div> 
+                    <div class="form-group">
+                        <label for="comqany">单位</label>
+                        <input type="text" class="form-control" id="com" placeholder="comqany">
+                    </div> 
+                    <div class="form-group">
+                        <label for="address">住址</label>
+                        <input type="text" class="form-control" id="addr" placeholder="address">
                     </div>
+                    <div class="form-group">
+                        <label for="telephone">电话</label>
+                        <input type="tel" class="form-control" id="tphone" placeholder="telephone">
+                    </div>
+                    <div class="form-group">
+                        <label for="hobby">爱好</label>
+                        <input type="text" class="form-control" id="hob" placeholder="hobby">
+                    </div>
+                    <div class="form-group">
+                        <label for="cycle">推荐拜访周期</label>
+                        <input type="text" class="form-control" id="cyc" placeholder="cycle">
+                    </div>   
+                    <div class="form-group">
+                        <label for="assessment">客户决策力影响力评估</label>
+                        <textarea class="form-control" id="assess" rows="3" placeholder="assessment"></textarea>
+                    </div>
+                    <!-- <div class="form-group">
+                        <a class="btn btn-success" href="#"><i class="glyphicon glyphicon-shopping-cart"></i>购买记录</a>
+                    </div> -->
 
                     <button type="submit" class="btn btn-default">提交</button>
+                    <button type="reset" class="btn btn-default">清除</button>
+
                 </form>
 
             </div>
@@ -88,8 +157,8 @@
     <!--/span-->
 
     <!-- 用户详细信息 -->
-    <!-- 
-    <div class="box col-md-6">
+    
+    <!-- <div class="box col-md-6">
         <div class="box-inner">
             <div class="box-header well" data-original-title="">
                 <h2><i class="glyphicon glyphicon-edit"></i> 详细信息</h2>
@@ -106,11 +175,11 @@
             <div class="box-content">
                 <form role="form">
                     <div class="form-group">
-                        <label for="username">毕业院校</label>
+                        <label for="username">近期计划</label>
                         <input type="text" class="form-control" id="username" placeholder="username">
                     </div>
                     <div class="form-group">
-                        <label for="Password">学历</label>
+                        <label for="Password">近期关注</label>
                         <input type="password" class="form-control" id="Password" placeholder="Password">
                     </div>
                     <div class="form-group">
@@ -123,11 +192,11 @@
                         </label>
                     </div>
                     <div class="form-group">
-                        <label for="phone">手机</label>
+                        <label for="phone">健康情况</label>
                         <input type="tel" class="form-control" id="phone" placeholder="phone">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1">邮箱</label>
+                        <label for="exampleInputEmail1">妻子职业</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" placeholder="email">
                     </div>
                     <div class="form-group">

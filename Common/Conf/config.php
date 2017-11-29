@@ -5,7 +5,7 @@ return array(
 
 
 	//页面底部设置显示跟踪信息
-	'SHOW_PAGE_TRACE' => TRUE,
+	//'SHOW_PAGE_TRACE' => TRUE,
 
 	//设置请求的默认分组
 	'DEFAULT_MODULE' => 'Home', //默认模块
